@@ -8,9 +8,9 @@ Analysis_PBMC3K.ipynb
 Analysis_PBMC68K.ipynb 
 
 
-The Neural Network is writen in PyTorch and the implementation is based: ( https://sannaperzon.medium.com/paper-summary-variational-autoencoders-with-pytorch-implementation-1b4b23b1763a and https://towardsdatascience.com/understanding-variational-autoencoders-vaes-f70510919f73) and adapeded by me.
+The Neural Network is writen in PyTorch and the implementation is based on: https://sannaperzon.medium.com/paper-summary-variational-autoencoders-with-pytorch-implementation-1b4b23b1763a and https://towardsdatascience.com/understanding-variational-autoencoders-vaes-f70510919f73 and adapeded by me.
 
-Most of the data handling is done in Scanpy, and the Scanpy tutorial is the basis of the filtering: https://scanpy-tutorials.readthedocs.io/en/latest/pbmc3k.html
+Most of the data handling is done in Scanpy, and the Scanpy tutorial is the basis of the processing process: https://scanpy-tutorials.readthedocs.io/en/latest/pbmc3k.html
 
 All trained models are saved and can be found here so that training does not have to be repeated.
 
